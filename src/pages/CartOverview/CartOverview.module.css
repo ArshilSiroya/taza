@@ -1,0 +1,26 @@
+.cart_overview {
+  padding: 100px 0;
+}
+.cartoverview_title {
+  background: #e2f6de;
+  border: 0;
+}
+.search_ber a {
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  transform: translateY(-50%);
+  width: 120px;
+  height: 50px;
+  background: linear-gradient(to right, #0f7404, #5cb917);
+  color: #fff;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 600;
+  font-size: 16px;
+  transition: all 0.3s;
+}
+
+.coupon_part {
+  padding-bottom: 80px;
+}
